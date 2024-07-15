@@ -139,7 +139,7 @@ footer {
 }
 
  footer .foot {
-    background-image: url(../img/Reci.png);
+    background-image: url(/src/img/Reci.png);
     display: flex;
     flex-direction: column;
     padding: 50px;
